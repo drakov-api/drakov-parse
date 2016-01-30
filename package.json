@@ -1,0 +1,25 @@
+{
+  "name": "drakov-parse",
+  "version": "1.0.0",
+  "description": "Parse API documentation to a Drakov route map",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drakov-api/drakov-parse.git"
+  },
+  "keywords": [
+    "api",
+    "blueprint",
+    "swagger",
+    "drakov"
+  ],
+  "author": "Yakov Khalinsky <yakov@therocketsurgeon.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drakov-api/drakov-parse/issues"
+  },
+  "homepage": "https://github.com/drakov-api/drakov-parse#readme"
+}
